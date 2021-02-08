@@ -1,0 +1,31 @@
+.lebron {
+  font-family: "Times New Roman", serif;
+  color: red;
+}
+
+.basketball {
+  font-family: "Arial", serif;
+  color: blue;
+}
+
+.footer {
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 10px;
+}
+
+.centerd {
+  text-align: center;
+  border: 3px solid green;
+}
+
+#lebron-james {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.width {
+  width: 33%
+}
